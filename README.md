@@ -1,4 +1,4 @@
-- 👋 Hi, Mohamed Lakhdar! Nice to meet you.
+- 👋 Hi,I'm Mohamed Lakhdar! Nice to meet you.
 - 👀 I'm interested in data science and all things related to analyzing and deriving insights from data.
 - 🌱 I'm currently learning more about data science to enhance my skills and knowledge in the field.
 - 💞️ I'm open to collaborating on data science projects or any interesting opportunities that come my way.
